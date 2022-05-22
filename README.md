@@ -12,7 +12,7 @@
    * 作为 SDR (software defined radio)，其最新的软件是 [Pavel 的存储库](http://pavel-demin.github.io/red-pitaya-notes/)。
 4. 使用 Red Pitaya 进行编程/开发
    * 远程控制/编程：远程控制可以通过使用最流行的快速原型开发工具 MATLAB、LABview、SCILAB 或 Python完成，这里是一些[示例](https://redpitaya.readthedocs.io/en/latest/appsFeatures/remoteControl/remoteControl.html) available.
-   *  WEB 浏览器/Python 编程：可以使用 [Jupyter]（https://redpitaya.readthedocs.io/en/latest/appsFeatures/jupyter/Jupyter.html?highlight=jupyter）直接从 WEB 浏览器用 Python 编程。
-   * C/C++编程：RedPitaya 硬件功能可以通过 C API 轻松访问。 此[链接] (https://redpitaya.readthedocs.io/en/latest/appsFeatures/remoteControl/remoteControl.html#examples) 提供了许多起始示例。
+   *  WEB 浏览器/Python 编程：可以使用[Jupyter](https://redpitaya.readthedocs.io/en/latest/appsFeatures/jupyter/Jupyter.html?highlight=jupyte) 直接从WEB浏览器用Python编程。
+   * C/C++编程：RedPitaya 硬件功能可以通过 C API 轻松访问。 此[链接](https://redpitaya.readthedocs.io/en/latest/appsFeatures/remoteControl/remoteControl.html#examples)提供了许多起始示例。
    * FPGA编程：关于如何编译 Red Pitaya 开源 FPGA 代码的信息请见[这里](https://redpitaya.readthedocs.io/en/latest/developerGuide/fpga.html)。
-   * 创建自己的WEB应用程序：可以在 [此处](https://redpitaya.readthedocs.io/en/latest/developerGuide/software/webApps.html) 找到有关如何创建自己的 Red Pitaya WEB 应用程序的说明。
+   * 创建自己的WEB应用程序：可以在 [此处](https://redpitaya.readthedocs.io/en/latest/developerGuide/software/webApps.html)找到有关如何创建自己的 Red Pitaya WEB 应用程序的说明。

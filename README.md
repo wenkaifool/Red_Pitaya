@@ -19,7 +19,7 @@
 5. 将 Red Pitaya 与其他硬件或传感器连接
    除了快速模拟输入和输出之外，Red Pitaya还带有一个扩展连接器，使用户能够通过标准i2c、UART、SPI接口或其他慢速模拟输入和输出以及数字GPIO与其他硬件设备或传感器进行接口。扩展可能性主要分为两种：
    * 使用 RedPitaya 已有的传感器扩展模块  
-     传感器扩展模块提供与 GroveSensors 的直接连接（例如，温度传感器、运动传感器、触摸传感器、按钮、开关、倾斜、电位计、光传感器、空气质量传感器、振动传感器、湿度传感器、水传感器、酒精传感器、气压计不支持瞬间，声音传感器，紫外线传感器，加速度计，继电器）。传感器扩展模块还提供与 arduino 扩展模块的兼容性。更多示例和信息可在此 [链接]（https://redpitaya.readthedocs.io/en/latest/appsFeatures/jupyter/Jupyter.html?highlight=jupyter）中找到。
+     传感器扩展模块提供与 GroveSensors 的直接连接（例如，温度传感器、运动传感器、触摸传感器、按钮、开关、倾斜、电位计、光传感器、空气质量传感器、振动传感器、湿度传感器、水传感器、酒精传感器、气压计不支持瞬间，声音传感器，紫外线传感器，加速度计，继电器）。传感器扩展模块还提供与 arduino 扩展模块的兼容性。更多示例和信息可在此 [链接](https://redpitaya.readthedocs.io/en/latest/appsFeatures/jupyter/Jupyter.html?highlight=jupyter)中找到。
    * 创建连接到扩展连接器的自己的附加模块  
      有关扩展连接器的更多信息，请单击 [此处](https://redpitaya.readthedocs.io/en/latest/developerGuide/125-14/extent.html).
 6. 如何使用 RedPitaya 开始教学？

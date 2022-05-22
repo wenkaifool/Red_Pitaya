@@ -24,3 +24,12 @@
      有关扩展连接器的更多信息，请单击 [此处](https://redpitaya.readthedocs.io/en/latest/developerGuide/125-14/extent.html).
 6. 如何使用 RedPitaya 开始教学？
    [教学讲座/资料](https://redpitaya.readthedocs.io/en/latest/teaching/teaching.html)。
+
+## 编程和远程控制工具
+### SCPI server (MATLAB, LabVIEW, Scilab or Python)
+1. Introduction  
+   Red Pitaya 板可以通过LAN或无线接口通过Red Pitaya SCPI(Standard Commands for Programmable Instrumentation 可编程仪器的标准命令)命令列表使用 MATLAB、LabVIEW、Scilab 或 Python 进行远程控制。
+   * SCPI 接口/环境通常用于控制用于开发、研究或测试自动化目的的 T&M 仪器。 
+   * SCPI 使用一组仪器识别的 SCPI 命令来执行特定操作（例如：从快速模拟输入获取数据、生成信号和控制 Red Pitaya 平台的其他外围设备）。 
+   * 当需要复杂的信号分析时，SCPI 命令非常有用，其中 MATLAB 等软件环境提供强大的数据分析工具，SCPI 命令可轻松访问 Red Pitaya 板上采集的原始数据。
+2. sss

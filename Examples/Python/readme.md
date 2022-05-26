@@ -7,3 +7,6 @@ In the list bellow you will find examples of remote control and C algorithms. Th
 
 
 You can edit and change them according to your needs and develop customized programs and routines.
+
+
+$x_i^2$
